@@ -46,7 +46,7 @@ namespace ABE
 
         private static String ENCRYPTION_ALGORITHM_NAME = "AES-256";
 
-        private static bool DEBUG = true;
+        private static bool DEBUG = false;
 
         private static SecureRandom random = new SecureRandom();
 
